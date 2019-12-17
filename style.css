@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.large { width:100%; float:left;}
+#msg { float:left; background:lightgreen; color: darkgreen; border: solid thin darkgreen; margin-bottom:30px; padding:40px;}
+h1
+{
+	color:#5a4333;
+	text-shadow: 2px 2px 2px #ffffff, -2px -2px 2px #ffffff;
+	margin-top:00px;
+}
+img.logo { margin-top:-100px;}
