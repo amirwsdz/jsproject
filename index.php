@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=windows-1256">
-<title>Simple javascript password generator by Amir WS</title>
+<title>Simple javascript password generator by Amir WS!! yayii</title>
 <meta name="keywords" content="Simple javascript password generator">
 <meta name="description" content="Simple javascript password generator to use with forms">
 <link media="screen" type="text/css" rel="stylesheet" href="style.css">
@@ -47,7 +47,7 @@ if(!empty($_POST['password']))
 				
 			}
 </script>
-<h1>simple javascript password generator by Amir WS</h1>
+<h1>simple javascript password generator by Amir WS wawoo</h1>
 This is a simple javascript password generator to fill form<br /><br />
 Click on <img src="images/key.png" alt="key" /> to generate rando password, when you choose the password click on <img src="images/checkok.png" alt="save password" /> to validate and copy it to clipboard<br /><br />
 <div class="large" id="msgarea"></div>
